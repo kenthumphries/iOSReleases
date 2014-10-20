@@ -4,19 +4,37 @@ iOS Releases
 A simple page to record historic Xcode &amp; iOS Releases for future project planning
 
 
-# 2007
+# 2014 (iOS 8)
 
-# 2008
-
-# 2009
-
-# 2010
-
-# 2011
-
-# 2012
-
-# 2013
+Date       |Xcode Version|iOS Version|Submit?|Notes
+-----------|-------------|-----------|-------|--------------------
+Jun 02     |6.0.0 Beta 1 |8.0.0      | NO    |WWDC Keynote<br>Dropped iPhone 4 (47 months)
+           |             |           |       |
+Jun 17     |6.0.0 Beta 2 |8.0.0      | NO    |
+           |             |           |       |
+Jul 07     |6.0.0 Beta 3 |8.0.0      | NO    |
+           |             |           |       |
+Jul 21     |6.0.0 Beta 4 |8.0.0      | NO    |
+           |             |           |       |
+Aug 04     |6.0.0 Beta 5 |8.0.0      | NO    |
+           |             |           |       |
+Aug 18     |6.0.0 Beta 6 |8.0.0      | NO    |Pulled, then re-added same day
+           |             |           |       |
+Sep 02     |6.0.0 Beta 7 |8.0.0      | NO    |
+           |             |           |       |
+Sep 09     |6.0.0 GM 1   |8.0.0      | YES   |iPhone 6, 6+ announced<br>iOS 8.0 Release: Sep 17
+           |             |           |       |
+Sep 17     |6.0.1        |8.0.0      | YES   |Public Release
+           |             |           |       |
+Sep 24     |6.0.1        |8.0.1      | YES   |8.0.1 Pulled within 2 hours
+           |             |           |       |
+Sep 25     |6.0.1        |8.0.2      | YES   |
+           |             |           |       |
+Oct 07     |6.1 GM 2     |8.1        | YES?  |
+           |             |           |       |
+Oct 16     |             |           | YES   |iPad Mini 3, Air 2 announced<br>iOS 8.1 Release: Oct 20
+           |             |           |       |
+Oct 20     |6.1          |8.1.0      | YES   |Public Release
 
 # 2014 (iOS 8)
 
@@ -38,7 +56,7 @@ A simple page to record historic Xcode &amp; iOS Releases for future project pla
 #### 4 August 2014 (Beta Update)
 - Xcode 6 Beta 5
   
-#### 18 August 2014 (Beta Update
+#### 18 August 2014 (Beta Update)
 - Xcode 6 Beta 6
   - Release pulled briefly from developer.apple then re-uploaded
   
@@ -74,8 +92,10 @@ A simple page to record historic Xcode &amp; iOS Releases for future project pla
 #### 20 October 2014 (Release Update)
 - 8.1 Released to public
 
+# 2007
 
-Sources
+
+References
 =======
 
 - iOS 8
