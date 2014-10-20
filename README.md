@@ -44,6 +44,13 @@ A simple page to record historic Xcode &amp; iOS Releases for future project pla
   
 #### 02 September 2014 (Beta Update)
 - Xcode 6 Beta 7
+ 
+#### 09 September 2014 (Initial GM)
+- Xcode 6.0 GM
+- Can submit apps to store
+- iPhone 6 announced
+- iPhone 6+ announced
+- Release date for iOS 8.0 set (17 September 2014)
 
 #### 17 September 2014 (Initial Release)
 - 8.0 Released to public
@@ -55,6 +62,14 @@ A simple page to record historic Xcode &amp; iOS Releases for future project pla
 
 #### 25 September 2014 (Release Update)
 - 8.0.2 Released to public
+
+#### 07 October 2014 (GM Update)
+- Xcode 6.1 GM 2
+
+#### 16 October 2014 (Announcement)
+- iPad mini 3 announced
+- iPad Air 3 announced
+- Release date for iOS 8.1 set (20 October 2014)
 
 #### 20 October 2014 (Release Update)
 - 8.1 Released to public
@@ -72,4 +87,4 @@ Sources
   - http://iosdevelopertips.com/beta/apple-releases-ios-8-xcode-6-beta-5.html
   - http://9to5mac.com/2014/08/18/apple-re-releases-xcode-6-beta-6-solves-issues-discovered-by-developers-in-new-build/
   - http://www.reddit.com/r/swift/comments/2f9zfx/xcode_6_beta_7_is_out/
-  
+  - https://developer.apple.com/news/
