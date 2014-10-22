@@ -35,6 +35,8 @@ Oct 07     |6.1 GM 2     |8.1        | YES?  |
 Oct 16     |             |           | YES   |iPad Mini 3, Air 2 announced<br>iOS 8.1 Release: Oct 20
            |             |           |       |
 Oct 20     |6.1          |8.1.0      | YES   |Public Release
+           |             |           |       |
+Feb 01     |5.X          |7.X        | NO    | Users must use Xcode 6.X to submit to app store
 
 
 # 2013-2014 (iOS 7)
