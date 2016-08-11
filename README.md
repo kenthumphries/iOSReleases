@@ -1,4 +1,9 @@
-iOS Releases
+
+http://www.thinkybits.com/blog/iOS-versions/
+
+Happily, DEPRECATED by this site above.
+
+~~iOS Releases~~
 ============
 
 A simple page to record historic Xcode &amp; iOS Releases for future project planning
